@@ -1,0 +1,6 @@
+{
+  "name": "Meat Identification System",
+  "description": "Sistem berbasis AI untuk mengidentifikasi jenis daging (Sapi, Ayam, Kambing, Babi, Ikan) dilengkapi dengan analisis gizi, visualisasi skor akurasi, dan pencatatan riwayat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
